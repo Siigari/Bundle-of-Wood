@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "facing=north": { "model": "bundleofwood:woodbundle" },
+    "facing=south": { "model": "bundleofwood:woodbundle", "y": 180 },
+    "facing=east":  { "model": "bundleofwood:woodbundle", "y": 90 },
+    "facing=west":  { "model": "bundleofwood:woodbundle", "y": 270 },
+    "facing=up":  { "model": "bundleofwood:woodbundle", "z": 90 },
+    "facing=down":  { "model": "bundleofwood:woodbundle", "z": 270 }
+    
+  }
+}

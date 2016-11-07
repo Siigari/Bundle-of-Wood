@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "north": "bundleofwood:blocks/sideString",
+        "south": "bundleofwood:blocks/sideBow",
+        "east": "bundleofwood:blocks/sideString",
+        "west": "bundleofwood:blocks/sideString",
+        "up": "bundleofwood:blocks/top",
+        "down": "bundleofwood:blocks/bottom",
+        "particle": "bundleofwood:blocks/sideString"
+    }
+}
